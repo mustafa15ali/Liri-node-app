@@ -1,0 +1,24 @@
+{
+  "name": "hw-node",
+  "version": "1.0.0",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafa15ali/Liri-node-app.git"
+  },
+  "author": "Mustafa Farah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafa15ali/Liri-node-app/issues"
+  },
+  "homepage": "https://github.com/mustafa15ali/Liri-node-app#readme",
+  "description": "liri",
+  "dependencies": {
+    "request": "^2.85.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
