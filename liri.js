@@ -11,7 +11,7 @@ var fs = require("fs");
 
 //  Twitter Search
 var getMyTweets = function () {
-  var client = new Twitter(keys.twitterKeys);
+  var client = new Twitter(keys.twitter);
 
   var params = {
     screen_name: "TChalla1234"
